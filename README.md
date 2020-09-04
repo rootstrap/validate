@@ -1,3 +1,5 @@
+<p align="center"><img src="resources/logo.png" /></p>
+
 # @rootstrap/validate
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a878b4be647cd2a9582c/maintainability)](https://codeclimate.com/github/rootstrap/validate/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/a878b4be647cd2a9582c/test_coverage)](https://codeclimate.com/github/rootstrap/validate/test_coverage)
@@ -48,7 +50,7 @@ const myFancyFormConstraints = {
   newElementName: {
     conditionalConstraints: {
       dependencies: [
-        { attribute: "createNewElement", constraints: { presence: true } },
+        { attribute: 'createNewElement', constraints: { presence: true } },
       ],
       constraints: {
         presence: true,
@@ -91,7 +93,7 @@ const myFancyFormConstraints = {
     conditionalConstraints: {
       dependencies: [
         {
-          attribute: "useCurrentElement",
+          attribute: 'useCurrentElement',
           constraints: { noPresence: { includeFalse: true } },
         },
       ],
