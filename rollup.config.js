@@ -1,7 +1,7 @@
-import pkg from "./package.json";
+import pkg from './package.json';
 
 export default {
-  input: "src/index.js",
-  external: ["lodash"],
-  output: [{ file: pkg.main, format: "cjs" }],
+  input: 'src/index.js',
+  external: ['lodash'],
+  output: [{ file: pkg.main, format: 'cjs' }],
 };
