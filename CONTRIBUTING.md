@@ -1,8 +1,8 @@
-**IMPORTANT:** replace all the instances of "rootstrap/your-library-name" with the actual library name or remove if doesn't apply
+**IMPORTANT:** replace all the instances of "rootstrap/validate" with the actual library name or remove if doesn't apply
 
 ## Got a question or problem?
 
-Please, do not open issues for the general support questions as we want to keep GitHub issues for bug reports and feature requests. You've got much better chances of getting your question answered on [StackOverflow](http://stackoverflow.com/questions/tagged/your-library-name) where maintainers are looking at questions tagged with `your-library-name`.
+Please, do not open issues for the general support questions as we want to keep GitHub issues for bug reports and feature requests. You've got much better chances of getting your question answered on [StackOverflow](http://stackoverflow.com/questions/tagged/validate) where maintainers are looking at questions tagged with `rootstrap-validate`.
 
 StackOverflow is a much better place to ask questions since:
 
