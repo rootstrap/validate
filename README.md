@@ -4,7 +4,6 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a878b4be647cd2a9582c/maintainability)](https://codeclimate.com/github/rootstrap/validate/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/a878b4be647cd2a9582c/test_coverage)](https://codeclimate.com/github/rootstrap/validate/test_coverage)
 
-[Description]
 Have you ever had to write your own custom validations? It can be a bit confusing, specially if you have never done it before. Don't worry, we are here to help.
 
 This library extends the popular library [validate.js](https://validatejs.org) and adds some custom validations that have proven to be very useful and quite commonly needed. Don't reinvent the wheel, next time you need to write a custom validation, check if someone hasn't implemented that custom validation already.
