@@ -1,0 +1,48 @@
+{
+  "name": "@rootstrap/validate",
+  "version": "1.0.0",
+  "description": "An extension of validate.js with useful and common custom validations",
+  "main": "lib/index.js",
+  "module": "src/index.js",
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "prepare": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootstrap/validate.git"
+  },
+  "keywords": [
+    "validate.js",
+    "js",
+    "react",
+    "react-native",
+    "validations",
+    "rootstrap"
+  ],
+  "author": "Agustina Chaer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rootstrap/validate/issues"
+  },
+  "homepage": "https://github.com/rootstrap/validate#readme",
+  "dependencies": {
+    "lodash": "4.17.20",
+    "validate.js": "^0.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.19.1",
+    "rollup": "^2.26.10"
+  },
+  "peerDependencies": {
+    "lodash": "4.17.20"
+  }
+}
