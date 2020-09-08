@@ -2,7 +2,7 @@
 
 # @rootstrap/validate
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/a878b4be647cd2a9582c/maintainability)](https://codeclimate.com/github/rootstrap/validate/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/a878b4be647cd2a9582c/test_coverage)](https://codeclimate.com/github/rootstrap/validate/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/df7ee2a5e9f30beb93ab/maintainability)](https://codeclimate.com/github/rootstrap/validate/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/a878b4be647cd2a9582c/test_coverage)](https://codeclimate.com/github/rootstrap/validate/test_coverage)
 
 Have you ever had to write your own custom validations? It can be a bit confusing, specially if you have never done it before. Don't worry, we are here to help.
 
