@@ -8,7 +8,7 @@ Have you ever had to write your own custom validations? It can be a bit confusin
 
 This library extends the popular library [validate.js](https://validatejs.org) and adds some custom validations that have proven to be very useful and quite commonly needed. Don't reinvent the wheel, next time you need to write a custom validation, check if someone hasn't implemented that custom validation already.
 
-Aside form common custom validations, this library will also serve as a gallery of all the custom validations that we have had to implement at Rootstrap, although some might not be included out of the box, we intend to showcase them in case you need them. [Here is a link]() to said gallery
+Aside from common custom validations, this library will also serve as a gallery of all the custom validations that we have had to implement at Rootstrap, although some might not be included out of the box, we intend to showcase them in case you need them. [Here is a link]() to said gallery
 
 If you need a validation that is not in this library you might be wondering, where do I even start? I've never written a custom validation. Don't worry, we got you covered! We have made available a [tutorial]() so it's easier to understand how to create a custom validation. Don't forget to check out other custom validations in the gallery, they can be really helpful when implementing your own as well.
 
