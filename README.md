@@ -12,11 +12,6 @@ Aside from common custom validations, this library will also serve as a gallery 
 
 If you need a validation that is not in this library you might be wondering, where do I even start? I've never written a custom validation. Don't worry, we got you covered! We have made available a [tutorial]() so it's easier to understand how to create a custom validation. Don't forget to check out other custom validations in the gallery, they can be really helpful when implementing your own as well.
 
-## Demo
-
-[In this section, you should include some images/gifs of how the library looks like.
-Also if the library has some demo you can add the steps for emulating this.]
-
 ## Installation
 
 ```
